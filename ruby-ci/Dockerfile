@@ -1,3 +1,5 @@
+# https://hub.docker.com/repository/docker/rista/ruby-ci
+
 FROM cimg/ruby:3.0.1-browsers
 USER root
 
