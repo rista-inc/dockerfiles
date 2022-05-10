@@ -1,6 +1,6 @@
 # https://hub.docker.com/repository/docker/rista/ruby-ci
 
-FROM cimg/ruby:3.1.1-browsers
+FROM cimg/ruby:3.1.2-browsers
 USER root
 
 RUN apt-get update && apt-get install imagemagick libmagickcore-dev libmagickwand-dev
